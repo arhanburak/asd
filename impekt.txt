@@ -1,0 +1,70 @@
+In the past three years, IRS has noticed the positive impact of experiences and world views gained on the individual and society while participating in STEAM. While establishing our relations with the values of FIRST, we created “the objective” that guides our members to be beneficial within our community.
+
+THE OBJECTIVE
+The objective of IRS is to create a sustainable model that enables its members to create a community built on equality, diversity, and inclusion that helps prepare the STEAM leaders of the future. Our main goal is to spread STEAM by continuing to expand the reach of IRS. We aim to represent our country successfully on an international scale while being beneficial to individuals and communities. We inspire people to keep up with our developing world with projects and initiatives, especially within FIRST and STEAM. We identify problems in our society and work towards coming up with and implementing solutions. By sticking to the core values of FIRST, we work hard to complete “The Objective”.
+
+SUSTAINABLE MODEL
+Umbrella Organization:  As an umbrella organization that contains FRC, FLL Challenge, and FLL Explore teams (IRS, IRS Youth, IRS Jr.), we leave a positive impact on our community as a result of our involvement in FIRST. We prepare our members and our society for a better future.
+IRS includes members of different age groups with an educational scale that helps us to build community contributors. Our FLL Explore members get to know FIRST and STEAM. After participating in FLL Challenge, they become more eager to learn and innovate. Since our team members start participating in FIRST from a young age they easily adopt the core values. Following 4 years of FRC experience, most of our alumni become mentors for our FLL teams. Since new members of our society are being led by our alumni, Istech Robotics Society is a sustainable model that includes 486 students and is continuing to grow every day.
+
+“THE PHOENIX”
+As IRS, the sustainability in our society is based on a scale that is inspired by our logo “The Phoenix”. Our rookie members start as “ash” members. Each year we have at least 30 rookie members who will become experts in certain fields and become “phoenixes” in. Once our rookie members become “phoenixes” they lead new “ash” members within their area of expertise. Thanks to our “ash” members IRS is a sustainable model that is reborn from its ashes every season.
+Being a team consisting of 68 members and 6 mentors can create a challenge for communication and human resource management. To solve this issue, along with “The Phoenix Scale” we implemented a CRM system and created subgroups to increase efficiency. Each subgroup has its own workflow and micromanages tasks under group supervision. With this system, we are not only able to maintain an efficient workflow but also store knowledge and resources which allows us to create a sustainable team model.
+
+PARTNERSHIPS
+
+FIRST
+
+We host and run FIRST organizations to make a positive impact in our community and pave the way for future STEAM leaders. We hosted … FLL Explores, and … FLL Challenges, and ran 1 FRC Kick-Off. In Kick-Off 2023 we held various workshops such as Java, Solidworks, Vision Processing, Sign Language, Safety, Quick Robot Build, Entrepreneurship, Effective Presentation Skills, FIRST and Awards, and Media Design. These workshops were held in partnership with experts in order for FRC teams to benefit from them.
+
+Sponsors
+We establish strong partnerships with our sponsors that are mutually beneficial and based on sustainability. We rely on the positive impact of our own, making our partners more eager to provide for the STEAM community. Throughout the 8 years of our journey at FIRST, we have collaborated with a total of 34 sponsors.
+
+FIRST Teams
+We have started and mentored 13 FLL Challenge, 11 FLL Explore, and 2 FRC teams. We have also assisted 15 FRC teams. We created a network between teams which gives us the opportunity to cooperate on future projects. Additionally, we established a platform called FIRSTUnites which was based on creating a network between 7 international FIRST teams. Moreover, after having a meeting with an FRC team that has deaf members, we took their advice while holding sign language workshops.
+
+Organizations
+
+Turkish Red Crescent
+We annually organize safety awareness workshops with the collaboration of the Turkish Red Crescent that are attended by +1000 people. We continued during the pandemic with online seminars and returned to face-to-face workshops in the past 2 years. We have organized blood drives and collected 684 units of blood, which is a record in Turkiye in terms of the number of units collected in a day. We keep cooperating with the Turkish Red Crescent and plan on organizing blood drives annually.
+
+Solidworks
+We collaborated with one of FIRST’s most important technical sponsors, Solidworks, and created an educational video that was published on their international website. We told the story of trying different platforms and deciding on Solidworks while designing and manufacturing robots.
+
+LÖSEV
+LÖSEV is an organization that provides financial and moral support to people with leukemia. We help promote the organization by handing out brochures. We also provide language translation support. Thanks to the voluntary projects we do, we support LÖSEV in every aspect. 
+
+FIRSTLIKEAGIRL EMBASSY
+
+As the only FIRSTLikeAGirl ambassador in Turkiye, our priority is to create a community within the values of equity, diversity, and inclusion.
+
+FLAG Conferences
+We annually organize conferences that cover issues girls face while participating in STEAM and FIRST. We reached 50+ FRC teams with the event we hosted. We created sub-committees that targeted specific issues and gave presentations to the whole conference. Those presentations were published on our FIRSTLikeAGirl blog and Instagram account to reach a wider audience.
+
+Scholarship Opportunities
+One of our initiatives regarding FIRSTLikeAGirl is to grant scholarships to girls who don’t have enough resources to get the education they need. We collaborate with our school’s foundation, ISTEK, in order to provide 11 girls with education opportunities. 
+
+Influence and Impact
+With the collaboration of Yeditepe University, to reach a wider audience and make a positive impact, we hold annual FIRSTLikeAGirl seminars, which have been attended by 3000+ people in the past 3 years. Furthermore, we have an Instagram account dedicated to FIRSTLikeAGirl. We created a digital magazine that covers the lives of inspiring women in STEAM. Moreover, we have created a #FIRSTLikeAGirl blog on our website. With every initiative we take, our influence and impact on our community get stronger and wider.
+
+COMMUNITY CONTRIBUTIONS
+
+Protecting the Environment
+EcoTire
+With one of our sponsors, SEPA, we conducted a study on the types of plastics that are the least harmful. We researched the effects of car tires on air pollution and created a tire out of natural materials, EcoTire. With this project, we won the “Most Creative Project” award given by the Istanbul Municipality. Since we are aware of the impact of reducing our ecological footprint, we make a great effort to improve ourselves.
+Environmental Conferences
+We organize annual conferences that address a designated environmental topic. Last year we had the theme of natural disasters and we are planning to move on with the theme of renewable energy and sustainability. Within these conferences, we divide participants into 4 committees that aim to overcome a sub-topic related to the theme. Last year our committees were earthquakes, floods, forest fires, and erosion. These 4 committees prepared presentations regarding the issues and possible solutions. These presentations were given in a conference hall, creating an atmosphere for every participant to be informed. These conferences are attended by +100 people from 14 FRC teams in Turkiye.
+
+Hour of Code
+We have been organizing “Hour of Code” workshops for 5 years and helped 2175 students understand the logic of algorithms and enable them to look at coding from a new perspective. This also creates a chance for us to introduce FIRST to students and add new members to our society. 
+
+Earthquake Assistance
+Turkiye is in a first-degree seismic zone and faced a disastrous earthquake recently. We, as IRS, did our best to provide as much assistance as we could during the process. We collected donations and prepared 2 trucks worth of supply parcels to send to the affected areas. We also are planning to increase the frequency of our natural disaster awareness conferences in light of recent events.
+
+Robotel
+We had “Maker Kid” workshops and we gathered information on congenital bone diseases. Thus, we designed and sized a prosthetic hand and then turned it into a prototype with a 3D printer.
+WORKSHOPS
+We organize STEM workshops in orphanages and schools with insufficient resources. We teach mBot and coding to people of all ages. Additionally, we organize workshops called “FRC 101” on various topics such as team management for new teams and time management in the robot production process. We also organize Career Days to help students analyze their interests and choose their professions accordingly. Furthermore, we organize Maker Teacher Trainings for +2200 teachers in 18 schools to improve their understanding of STEAM. All the workshops we organize are aimed at spreading STEAM and FIRST culture and integrating them into people’s lives.
+
+VISITINGS
+Over the past three years, we visited 4 primary schools and provided STEAM workshops to +450 students. These workshops included mBot, Arduino, and LEGO WeDo. We also collaborate with Robotistan to provide 20 Arduino Uno Starter Kits to underprivileged schools. Furthermore, we had discussions with the school principals on starting FLL Explore teams in those schools. We have taken the initiative by collecting donations and gathering supplies. We also plan on mentoring the teams once they are established.
